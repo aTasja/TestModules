@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: BaseWorld
+  m_EditorClassIdentifier: 
+  m_GroupName: BaseWorld
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 67e8250aa814cdc498b01a6c75bfd24a
+  m_SerializeEntries:
+  - m_GUID: fbdcbc80a8a771c4fb1c979d3b84b8d7
+    m_Address: Assets/Prefabs/House_NW.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4011816829bb97d4bb1e5c0324a8e62a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7f9a043ac8610574ebbf65f1757ac584, type: 2}
+    - {fileID: 11400000, guid: 9c46167a8745dc743b4385e49fb25313, type: 2}
